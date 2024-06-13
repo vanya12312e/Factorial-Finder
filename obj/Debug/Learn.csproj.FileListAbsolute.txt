@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Learn\Learn\bin\Debug\Learn.exe.config
+C:\Users\User\source\repos\Learn\Learn\bin\Debug\Learn.exe
+C:\Users\User\source\repos\Learn\Learn\bin\Debug\Learn.pdb
+C:\Users\User\source\repos\Learn\Learn\obj\Debug\Learn.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Learn\Learn\obj\Debug\Learn.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Learn\Learn\obj\Debug\Learn.exe
+C:\Users\User\source\repos\Learn\Learn\obj\Debug\Learn.pdb
